@@ -1,4 +1,4 @@
-A C++ Student Database Program that utilizes linked list.
+C++ Student Database Program That Utilizes Linked List.
 ===============================================================
 Program Features:
 - Add a student.
