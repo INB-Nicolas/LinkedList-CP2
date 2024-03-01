@@ -11,6 +11,7 @@ Program Features:
     - 5 students per page.
 - Update a student's information.
 - Delete a student's information.
+
 Program also has proper error handling.
 
 Program is done for Computer Programming 2 Laboratory class.
