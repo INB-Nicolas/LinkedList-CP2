@@ -14,7 +14,6 @@ Program Features:
 Program also has proper error handling.
 
 Program is done for Computer Programming 2 Laboratory class.
-===============================================================
 
 
 
